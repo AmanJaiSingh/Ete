@@ -1,13 +1,83 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cart {
+  width: 40vw;
+}
+.contain {
+  width: 60vw;
+}
+.modal {
+  position: fixed;
+  top: 20vh;
+  left: 20%;
+  width: auto;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 1101;
+  animation: slide-down 300ms ease-out forwards;
+}
+.modal button[type="close"] {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background-color: unset;
+  border: unset;
+  cursor: pointer;
+}
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.checkout-modal_footer {
+  border-top: 1px solid rgba(128, 128, 128, 0.288);
+  display: flex;
+  justify-content: space-between;
+}
+.totalAmount {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.totalAmount h4:first-child {
+  margin: 0 16px;
+}
+
+.totalAmount button {
+  align-self: center;
+  background-color: red;
+  color: white;
+  border: unset;
+  padding: 12px 24px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.totalAmount button:hover {
+  opacity: 0.85;
 }

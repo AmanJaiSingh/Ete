@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 340,
+    "price": 450,
+    "thumbnail": "images.png",
+    "title": "Muesli, Pack of 2",
+    "quantity": 0
+  },
+  {
+    "id": 1,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 27,
+    "price": 30,
+    "thumbnail": "images.png",
+    "title": "Oreo Biscuit, Buy 1 Get 1",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 340,
+    "price": 450,
+    "thumbnail": "images.png",
+    "title": "Bagrry's Crunchy Fruit ",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 85,
+    "price": 100,
+    "thumbnail": "images.png",
+    "title": "Oreo Biscuit, Pack of 3",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 340,
+    "price": 450,
+    "thumbnail": "images.png",
+    "title": "Muesli, Pack of 2",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 27,
+    "price": 30,
+    "thumbnail": "images.png",
+    "title": "Oreo Biscuit, Buy 1 Get 1",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 340,
+    "price": 450,
+    "thumbnail": "images.png",
+    "title": "Bagrry's Crunchy Fruit ",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.  -",
+    "discountedPrice": 85,
+    "price": 100,
+    "thumbnail": "images.png",
+    "title": "Oreo Biscuit, Pack of 3",
+    "quantity": 0
+  }
+]
